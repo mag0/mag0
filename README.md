@@ -18,6 +18,6 @@
 📫 Contactame en [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/martin-guerreiro/))
 
 ### 🔥 Estadísticas de GitHub
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=mag0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 🚀 **Siempre aprendiendo y creando!** Si querés trabajar juntos o intercambiar ideas, ¡no dudes en escribirme! 😃
