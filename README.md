@@ -29,16 +29,17 @@
 
 🚀 [Mi porfolio](https://martinguerreiroporfolio.vercel.app/)  
 
-🖼️ ![GIF animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![GIF animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
 
 ## 🎯 Sobre mí  
 
 📍 Ubicación: Buenos Aires, Argentina  
-🌱 Actualmente buscando trabajo 
+🌱 Actualmente buscando trabajo  
 🎯 Buscando oportunidades para colaborar en proyectos innovadores  
 📫 Contactame en [LinkedIn](https://www.linkedin.com/in/martin-guerreiro/)  
+📧 Email: **guerreiromartin@gmail.com**  
 
 ---
 
