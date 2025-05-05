@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Martín!  
 ### 🚀 Desarrollador Web | Apasionado por la tecnología  
 
-💻 Me especializo en el desarrollo de aplicaciones web con **JavaScript**, **React**, **Node.js** y otras tecnologías modernas. Siempre estoy explorando nuevas herramientas y optimizando código para crear soluciones eficientes.  
+💻 Me especializo en el desarrollo de aplicaciones web con **JavaScript**, **React**, **.Net** y otras tecnologías modernas. Siempre estoy explorando nuevas herramientas y optimizando código para crear soluciones eficientes.  
 
 ---
 
@@ -28,7 +28,6 @@
 ## 📂 Mis proyectos destacados  
 
 🚀 [Mi porfolio](https://martinguerreiroporfolio.vercel.app/)  
-🎨 [Otro proyecto interesante](https://github.com/usuario/repositorio)  
 
 🖼️ ![GIF animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
@@ -37,7 +36,7 @@
 ## 🎯 Sobre mí  
 
 📍 Ubicación: Buenos Aires, Argentina  
-🌱 Actualmente mejorando mis habilidades como desarrollador web  
+🌱 Actualmente buscando trabajo 
 🎯 Buscando oportunidades para colaborar en proyectos innovadores  
 📫 Contactame en [LinkedIn](https://www.linkedin.com/in/martin-guerreiro/)  
 
