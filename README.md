@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy Martín!  
-### 🚀 Desarrollador Web | Apasionado por la tecnología  
+### 🚀 Técnico Universitario en Desarrollo Web | Desarrollador Web Full Stack  
 
 💻 Me especializo en el desarrollo de aplicaciones web con **JavaScript**, **React**, **.Net** y otras tecnologías modernas. Siempre estoy explorando nuevas herramientas y optimizando código para crear soluciones eficientes.  
 
@@ -16,10 +16,10 @@
 
 <details>
   <summary>Más herramientas...</summary>
-  🔹 **Frontend:** HTML, CSS, React, Angular, Spring  
-  🔹 **Backend:** Node.js, Express, Python, PHP  
+  🔹 **Frontend:** HTML, CSS, JavaScript, React, Angular
+  🔹 **Backend:** Node.js, Express, Python, PHP, Spring, .Net  
   🔹 **Library:** Flowbite, Tailwind, Bootstrap  
-  🔹 **BD:** MySQL, MongoDB, SQL Server  
+  🔹 **BD:** MySQL, MongoDB, SQL Server, Docker  
   🔹 **Versionado:** GitHub, GitLab  
 </details>
 
@@ -27,7 +27,7 @@
 
 ## 📂 Mis proyectos destacados  
 
-🚀 [Mi porfolio](https://martinguerreiroporfolio.vercel.app/)  
+🚀 [Mi porfolio](https://martinguerreiroportfolio.vercel.app)  
 
 ![GIF animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
