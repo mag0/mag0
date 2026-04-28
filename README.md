@@ -1,6 +1,6 @@
 # 👋 Hola, soy Martín Guerreiro  
 
-### 🚀 Full Stack Developer jr.
+### 🚀 Full Stack Developer Jr.
 
 💻 Desarrollo aplicaciones web enfocadas en **performance, accesibilidad y buenas prácticas**.  
 Actualmente trabajando con tecnologías modernas en frontend y backend.  
