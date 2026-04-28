@@ -1,6 +1,6 @@
 # 👋 Hola, soy Martín Guerreiro  
 
-### 🚀 Full Stack Developer | .NET & React  
+### 🚀 Full Stack Developer jr.
 
 💻 Desarrollo aplicaciones web enfocadas en **performance, accesibilidad y buenas prácticas**.  
 Actualmente trabajando con tecnologías modernas en frontend y backend.  
@@ -41,32 +41,23 @@ Actualmente trabajando con tecnologías modernas en frontend y backend.
 
 ---
 
-## 🚀 Proyecto destacado  
-
-🔗 Portfolio:  
+## 🚀 Portfolio Web
+ 
 👉 https://martinguerreiroportfolio.vercel.app  
-
----
-
-## 📈 Enfoque actual  
-
-- 📚 Mejorando en **arquitectura backend (.NET)**  
-- ♿ Desarrollo enfocado en **accesibilidad (WIRIN)**  
-- ⚡ Optimización de rendimiento en aplicaciones web  
 
 ---
 
 ## 🌍 Sobre mí  
 
 📍 Buenos Aires, Argentina  
-🎯 Buscando mi primera experiencia profesional como desarrollador  
+🎯 Buscando mi primera experiencia laboral como desarrollador  
 🤝 Abierto a colaborar en proyectos  
 
 ---
 
 ## 📫 Contacto  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/martin-guerreiro/  
+- 💼 LinkedIn: https://www.linkedin.com/in/martin-guerreiro  
 - 📧 Email: guerreiro​martin@gmail.com  
 
 ---
