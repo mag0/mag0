@@ -58,7 +58,7 @@ Actualmente trabajando con tecnologías modernas en frontend y backend.
 ## 📫 Contacto  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/martin-guerreiro  
-- 📧 Email: guerreiro​martin@gmail.com  
+- 📧 Email: guerreiromartin@gmail.com
 
 ---
 
