@@ -8,7 +8,7 @@ Actualmente busco mi primera experiencia laboral como desarrollador.
 
 ---
 
-## ⚡ Stack principal
+## Stack principal
 
 * **Frontend:** React, TypeScript, JavaScript, HTML, CSS
 * **Backend:** .NET (C#), Java (Spring), Node.js
@@ -86,9 +86,9 @@ Sitio web con catálogo de productos, categorías y panel administrativo para ge
 
 ## Sobre mí
 
-📍 Buenos Aires, Argentina
-🎯 Buscando mi primera experiencia laboral como desarrollador web
-🎓 Técnico Universitario en Desarrollo Web | Estudiante de Ingeniería en Sistemas
+* Buenos Aires, Argentina
+* Buscando mi primera experiencia laboral como desarrollador web
+* Técnico Universitario en Desarrollo Web | Estudiante de Ingeniería en Sistemas
 
 ---
 
