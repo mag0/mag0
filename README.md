@@ -1,6 +1,6 @@
 # 👋 Hola, soy Martín Guerreiro
 
-### 🚀 Full Stack Developer Jr.
+### Full Stack Developer Jr.
 
 Soy Técnico Universitario en Desarrollo Web y estudiante de Ingeniería en Sistemas. Desarrollo aplicaciones web y me interesa seguir creciendo principalmente en frontend y backend.
 
@@ -17,7 +17,7 @@ Actualmente busco mi primera experiencia laboral como desarrollador.
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 ### EnergyBoard
 
@@ -45,14 +45,14 @@ Sitio web con catálogo de productos, categorías y panel administrativo para ge
 
 ---
 
-## 🎓 Formación
+## Formación
 
 * **Técnico Universitario en Desarrollo Web**
 * **Ingeniería en Sistemas — en curso**
 
 ---
 
-## 🧰 Tecnologías
+## Tecnologías
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -78,13 +78,13 @@ Sitio web con catálogo de productos, categorías y panel administrativo para ge
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 👉 https://martinguerreiroportfolio.vercel.app
 
 ---
 
-## 🌍 Sobre mí
+## Sobre mí
 
 📍 Buenos Aires, Argentina
 🎯 Buscando mi primera experiencia laboral como desarrollador web
@@ -92,8 +92,8 @@ Sitio web con catálogo de productos, categorías y panel administrativo para ge
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-* 💼 LinkedIn: https://www.linkedin.com/in/martin-guerreiro
-* 📧 Email: [guerreiromartin@gmail.com](mailto:guerreiromartin@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/martin-guerreiro
+* Email: [guerreiromartin@gmail.com](mailto:guerreiromartin@gmail.com)
 
